@@ -2,8 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        /* Przykład.1 */
-        //Bartek Zawadzki
+        /* Przykład.1
         /* Pętle while */
         int i = 10;
         while (i > 0) {
