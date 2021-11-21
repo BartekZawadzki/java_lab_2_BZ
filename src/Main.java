@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         /* Przykład.1 */
-        //BartekZawadzki
+        //Bartek Zawadzki
         /* Pętle while */
         int i = 10;
         while (i > 0) {
